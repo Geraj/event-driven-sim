@@ -1,0 +1,3 @@
+[submodule "event"]
+	path = event
+	url = https://github.com/Geraj/event-driven-sim.git
