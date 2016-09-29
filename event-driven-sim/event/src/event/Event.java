@@ -7,6 +7,4 @@ package event;
  */
 public interface Event {
 	public String getName();
-	
-	
 }
